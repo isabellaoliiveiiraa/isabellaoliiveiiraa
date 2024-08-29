@@ -1,4 +1,5 @@
-## Hi there 👋
+# Olá! Sou Isabella Oliveira 👋
+Atualmente, estou cursando Técnico em Desenvolvimento de Sistemas no SENAI, onde estou aprimorando minhas habilidades em programação e desenvolvimento de software. Além disso, possuo cursos complementares em Pacote Office, o que me proporciona uma base sólida em ferramentas essenciais para o desenvolvimento e gestão de projetos.
 
 <!--
 **isabellaoliiveiiraa/isabellaoliiveiiraa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
