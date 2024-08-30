@@ -1,6 +1,8 @@
 # Olá! Sou Isabella Oliveira 👋
 Atualmente, estou cursando Técnico em Desenvolvimento de Sistemas no SENAI, onde estou aprimorando minhas habilidades em programação e desenvolvimento de software. Além disso, possuo cursos complementares em Pacote Office, o que me proporciona uma base sólida em ferramentas essenciais para o desenvolvimento e gestão de projetos.
 
+# Contatos
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/isabella-costa-santos-de-oliveira-7a1b47305?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app) [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bellacsoliveira123@gmail.com)
 
 
